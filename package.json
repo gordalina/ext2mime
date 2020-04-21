@@ -1,0 +1,25 @@
+{
+  "name": "extmime",
+  "version": "1.0.0",
+  "description": "Detect mimetype from extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordalina/extmime.git"
+  },
+  "keywords": [
+    "mime",
+    "types",
+    "ext",
+    "mime-type"
+  ],
+  "author": "Samuel Gordalina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gordalina/extmime/issues"
+  },
+  "homepage": "https://github.com/gordalina/extmime#readme"
+}
