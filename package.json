@@ -1,5 +1,5 @@
 {
-  "name": "extmime",
+  "name": "@gordalina/ext2mime",
   "version": "1.0.0",
   "description": "Detect mimetype from extension",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gordalina/extmime.git"
+    "url": "git+https://github.com/gordalina/ext2mime.git"
   },
   "keywords": [
     "mime",
@@ -19,7 +19,7 @@
   "author": "Samuel Gordalina",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gordalina/extmime/issues"
+    "url": "https://github.com/gordalina/ext2mime/issues"
   },
-  "homepage": "https://github.com/gordalina/extmime#readme"
+  "homepage": "https://github.com/gordalina/ext2mime#readme"
 }
